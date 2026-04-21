@@ -1,4 +1,4 @@
-\Large Quantum Mechanics Coursework | McMaster University
+$\Large Quantum Mechanics Coursework$ | McMaster University
 
 A collection of computational notebooks and scripts covering topics from undergraduate-level quantum mechanics. Each module explores a core QM concept through analytical derivations and numerical methods implemented in Python.
 
