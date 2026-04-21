@@ -1,4 +1,5 @@
 Quantum Mechanics Coursework | McMaster University
+
 A collection of computational notebooks and scripts covering topics from graduate-level quantum mechanics. Each module explores a core QM concept through analytical derivations and numerical methods implemented in Python.
 
 Topics Covered
