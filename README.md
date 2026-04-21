@@ -1,9 +1,9 @@
-*Quantum Mechanics Coursework | McMaster University*
+**Quantum Mechanics Coursework | McMaster University**
 
-A collection of computational notebooks and scripts covering topics from graduate-level quantum mechanics. Each module explores a core QM concept through analytical derivations and numerical methods implemented in Python.
+A collection of computational notebooks and scripts covering topics from undergraduate-level quantum mechanics. Each module explores a core QM concept through analytical derivations and numerical methods implemented in Python.
 
 
-Topics Covered
+**Topics Covered**
 
 Moments in a Particle in a Box: Expectation values and statistical moments of position and momentum for the infinite square well
 
